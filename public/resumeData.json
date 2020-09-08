@@ -1,0 +1,128 @@
+{
+	"main": {
+		"name": "Tat Thanh Le",
+		"occupation": "",
+		"description": "React Developer ",
+		"image": "TatThanh3.jpg",
+		"bio": "My name is Thanh, I'm a ReactJS Developer. Currently I'm working on some pet projects and looking for a job ",
+		"contactmessage": "Get in touch with me to receive further details.",
+		"email": "paxle86@gmail.com",
+		"phone": "+44 12 345 6789",
+		"address": {
+			"street": "110 Tran Phu",
+			"city": "Ha Noi",
+			"state": "VN",
+			"zip": "100000"
+		},
+		"website": "http://github.com/Paxle86",
+		"resumedownload": "http://github.com/Paxle86",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/paxle86",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/pax-le-640b1b197/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/paxle86/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "http://github.com/Paxle86",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "",
+		"education": [
+			{
+				"school": "freecodecamp",
+				"degree": "frontend deverloper",
+				"graduated": "August 2020",
+				"description": ""
+			}
+		],
+		"work": [
+			{
+				"company": "freelancer",
+				"title": "",
+				"years": "August 2020 - Present",
+				"description": ""
+			}
+		],
+		"skills": [
+			{
+				"name": "ReactJs",
+				"level": "60%"
+			},
+			{
+				"name": "CSS",
+				"level": "65%"
+			},
+			{
+				"name": "Git",
+				"level": "60%"
+			},
+			{
+				"name": "Figma && Adobe XD",
+				"level": "55%"
+			},
+			{
+				"name": "HTML5",
+				"level": "70%"
+			},
+			{
+				"name": "MongoDB",
+				"level": "60%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "MERN Stack Github-Finder",
+				"category": "Find user on github by their name",
+				"image": "github-finder.png",
+				"url": "https://github-finder-vn.netlify.app/"
+			},
+			{
+				"title": "HTML & CSS Website",
+				"category": "Website buit with HTML & CSS",
+				"image": "Rosa.png",
+				"url": "https://therosa-restaurant.netlify.app/"
+			},
+			{
+				"title": "React website monster-rolodex",
+				"category": "A Monster website built with ReactJS",
+				"image": "monster.png",
+				"url": "https://paxle86.github.io/monsters-rolodex/"
+			},
+			{
+				"title": "Airbnb Clone",
+				"category": "Airbnb Clone built with ReactJS",
+				"image": "airbnb-clone.jpeg",
+				"url": "https://airbnb-clone-f3fdb.web.app/"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "I couldn't be happier with my choice of using Tat Thanh Web Design Service for my new website. He was easy to work with and helped me make a terrific website in a short amount of time. Thanks again for all your hard work I will recommend you to all my friends!",
+
+				"user": "Mark Bloom"
+			},
+			{
+				"text": "That Tat Thanh must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+				"user": "John Allen, President"
+			}
+		]
+	}
+}
