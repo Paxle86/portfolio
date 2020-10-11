@@ -20,10 +20,6 @@ class Footer extends Component {
 					<div className='twelve columns'>
 						<ul className='social-links'>{networks}</ul>
 
-						<ul>
-							<li>Modified with love by the Clever Programmer team </li>
-						</ul>
-
 						<ul className='copyright'>
 							<li>
 								&copy; All credit goes to Tat Thanh Le - Copyright 2020 Tat
@@ -31,8 +27,8 @@ class Footer extends Component {
 							</li>
 							<li>
 								Design by{' '}
-								<a title='Styleshout' href='http://www.styleshout.com/'>
-									Styleshout
+								<a title='Tat Thanh Le' href='https://www.facebook.com/paxle86'>
+									paxle86
 								</a>
 							</li>
 						</ul>
